@@ -242,7 +242,6 @@ font-weight: 300;
 }
 .project__item {
     display: flex;
-    margin-top: 100px;
     justify-content: space-between;
 }
 
